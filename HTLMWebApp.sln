@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTLMWebApp", "HTLMWebApp.csproj", "{1B74BF43-C9EA-4570-85AB-8DA84643D3CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B74BF43-C9EA-4570-85AB-8DA84643D3CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B74BF43-C9EA-4570-85AB-8DA84643D3CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B74BF43-C9EA-4570-85AB-8DA84643D3CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B74BF43-C9EA-4570-85AB-8DA84643D3CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F054C2E-EC4D-4DA6-8E86-C1EBA4332222}
+	EndGlobalSection
+EndGlobal
